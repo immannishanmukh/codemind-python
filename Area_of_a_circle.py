@@ -1,3 +1,2 @@
-r=int(input())
-x=3.14*(r*r)
-print(x)
+x=int(input())
+print(3.14*(x*x))
